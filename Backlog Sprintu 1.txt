@@ -1,0 +1,7 @@
+1 Sprint - 2 Listopada 2016:
+
+- Schemat bazy danych
+- Implementacja bazy danych
+- Wstêpny dobór potencjalnych templatów bootstrapowych
+- Mechanizm logowania i rejestracji
+- Stworzenie projektowego repozytorium na GitHubie
